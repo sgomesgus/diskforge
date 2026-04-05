@@ -106,9 +106,3 @@ Mounted automatically at boot via `/etc/fstab`.
 - Filesystem auto-detection
 - Dry-run mode (simulation)
 - Logging system
-
----
-
-## Author
-
-**Gomes**
