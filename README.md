@@ -96,13 +96,3 @@ Mounted automatically at boot via `/etc/fstab`.
 * **ALL DATA ON THE SELECTED DISK WILL BE PERMANENTLY ERASED**
 * Always verify the disk identifier (`sda`, `sdb`, `nvme0n1`, etc.)
 * Do not use on production systems without prior validation
-
----
-
-## Future Improvements
-
-- exFAT support
-- Interactive UI (whiptail/dialog)
-- Filesystem auto-detection
-- Dry-run mode (simulation)
-- Logging system
